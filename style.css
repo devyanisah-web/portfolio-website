@@ -43,9 +43,12 @@ section h2 {
 
 section p {
     color: #555;
-    line-height: 1.6;
+    line-height: 1.7;
     text-align: center;
+    max-width: 550px;
+    margin: 0 auto;
 }
+
 
 ul {
     list-style: none;
